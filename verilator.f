@@ -1,0 +1,8 @@
+-Wall
+--timing
+--trace-fst
+--trace-structs
+--x-assign unique
+--x-initial unique
+-Itoolchain_test
+-Ileds_pmod

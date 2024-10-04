@@ -1,0 +1,40 @@
+IO_LOC "clk_i" H11;
+IO_LOC "rst_n_i" T10;
+
+IO_LOC "key_inv_i" T3;
+
+IO_LOC "pmod_leds_inv_o[0]"  P6;
+IO_LOC "pmod_leds_inv_o[1]"  T6;
+IO_LOC "pmod_leds_inv_o[2]"  T7;
+IO_LOC "pmod_leds_inv_o[3]"  R8;
+IO_LOC "pmod_leds_inv_o[4]"  P8;
+IO_LOC "pmod_leds_inv_o[5]"  T8;
+IO_LOC "pmod_leds_inv_o[6]"  T9;
+IO_LOC "pmod_leds_inv_o[7]"  P9;
+IO_LOC "pmod_leds_inv_o[8]"  P11;
+IO_LOC "pmod_leds_inv_o[9]"  T11;
+IO_LOC "pmod_leds_inv_o[10]" R11;
+IO_LOC "pmod_leds_inv_o[11]" T12;
+IO_LOC "pmod_leds_inv_o[12]" M15;
+IO_LOC "pmod_leds_inv_o[13]" M14;
+IO_LOC "pmod_leds_inv_o[14]" J16;
+IO_LOC "pmod_leds_inv_o[15]" J14;
+
+IO_LOC "buttons_inv_i[0]" B11;
+IO_LOC "buttons_inv_i[1]" D11;
+IO_LOC "buttons_inv_i[2]" N9;
+IO_LOC "buttons_inv_i[3]" L9;
+
+IO_LOC "switches_inv_i[0]" A11;
+IO_LOC "switches_inv_i[1]" N6;
+IO_LOC "switches_inv_i[2]" N7;
+IO_LOC "switches_inv_i[3]" N8;
+
+IO_LOC "seven_seg_inv_o[7]" B13; // A
+IO_LOC "seven_seg_inv_o[6]" A14; // B
+IO_LOC "seven_seg_inv_o[5]" C12; // C 
+IO_LOC "seven_seg_inv_o[4]" B14; // D
+IO_LOC "seven_seg_inv_o[3]" A15; // E
+IO_LOC "seven_seg_inv_o[2]" E15; // F
+IO_LOC "seven_seg_inv_o[1]" D14; // G
+IO_LOC "seven_seg_inv_o[0]" B12; // SEL
